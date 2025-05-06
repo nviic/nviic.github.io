@@ -72,11 +72,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-中文测试",
+            },{id: "post-chinse",
         
-          title: "中文测试",
+          title: "chinse",
         
-        description: "用于测试该项目的中文兼容性",
+        description: "中文",
         section: "Posts",
         handler: () => {
           
