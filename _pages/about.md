@@ -2,7 +2,7 @@
 layout: about
 title: 关于
 permalink: /
-subtitle: <a href='#'>设计师</a>. 从事设计和制造的相关工作
+subtitle: <a href='#'>隶属机构</a>、地址、联系方式、座右铭、等等。
 
 profile:
   align: right
