@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/";
+            window.location.href = "/blog/2025/chinese/";
           
         },
       },{id: "post-a-post-with-plotly-js",
