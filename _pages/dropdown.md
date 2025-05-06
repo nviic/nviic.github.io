@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: 其他项目
 nav: true
 nav_order: 8
 dropdown: true
