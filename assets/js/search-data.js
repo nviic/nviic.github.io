@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-中文测试",
+            },{id: "post-博客编辑精要介绍",
+        
+          title: "博客编辑精要介绍",
+        
+        description: "文章将要介绍汉化内容和编辑指引",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E5%8D%9A%E5%AE%A2%E7%BC%96%E8%BE%91%E7%B2%BE%E8%A6%81%E4%BB%8B%E7%BB%8D/";
+          
+        },
+      },{id: "post-中文测试",
         
           title: "中文测试",
         
