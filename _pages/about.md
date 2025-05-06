@@ -31,7 +31,7 @@ latest_posts:
 
 在你的照片下方可以填写地址、邮政信箱或其他信息。你也可以通过编辑 `_pages/about.md` 文件中 YAML 头部的 `profile` 属性来禁用其中任意部分。
 
-编辑 `_bibliography/papers.bib` 文件，Jekyll 会自动渲染你的 [发表页面](/al-folio/publications/)。
+编辑 `_bibliography/papers.bib` 文件，Jekyll 会自动渲染你的 [发表页面](https://nviic.github.io/publications/)。
 
 你也可以添加社交媒体链接。本主题已集成了 [Font Awesome 图标](https://fontawesome.com/) 和 [Academicons 图标](https://jpswalsh.github.io/academicons/)，如下所示。可以添加 Facebook、Twitter、LinkedIn、Google Scholar 等账户链接，或者禁用所有这些图标。
 
