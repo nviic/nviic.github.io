@@ -58,15 +58,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-书架",
+              title: "书架",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-博文",
+              title: "博文",
               description: "",
               section: "Dropdown",
               handler: () => {
