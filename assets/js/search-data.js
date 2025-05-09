@@ -526,9 +526,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-项目测试",
-          title: '项目测试',
-          description: "another project with an image 🎉",
+            },},{id: "projects-罪与罚",
+          title: '罪与罚',
+          description: "陀思妥耶夫斯基的经典名著",
           section: "Projects",handler: () => {
               window.location.href = "/projects/%E9%A1%B9%E7%9B%AE%E6%B5%8B%E8%AF%95/";
             },},{
